@@ -3,8 +3,6 @@ A simple weather GUI program made in Python using [PySimpleGUI](https://github.c
 
 Thank you for the Silver Award on my Reddit post to [r/Python](https://reddit.com/r/python)!
 
-![Showcasing my Silver award!](https://file.coffee/u/vCFv5JKz5i.png)
-
 # Prerequisites
 - Any version of Python 3.x, up to Python 3.8.6
 - An OpenWeatherMap API key. You can get one for free [here](https://home.openweathermap.org/users/sign_up).
